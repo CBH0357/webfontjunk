@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'SW RPG Icons';
-    src: url('sw-rpg-icons.woff') format('woff');
+    src: url('sw-rpg-icons.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -14,7 +14,7 @@
 *****/
 
 .genesys {
-  font-family: 'SW RPG Icons';
+  font-family: 'sw-rpg-icons';
 }
 
 .genesys.dice {
