@@ -4,7 +4,8 @@
 
 @font-face {
     font-family: 'Genesys';
-    src: url('genesysglyphsanddice.woff2') format('woff2'),
+    src: url('genesysglyphsanddice2.woff2') format('woff2'),
+         url('genesysglyphsanddice.woff2') format('woff2'),
          url('genesysglyphsanddice.woff') format('woff');
     font-weight: normal;
     font-style: normal;
